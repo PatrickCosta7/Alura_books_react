@@ -9,5 +9,3 @@ async function getLivros() {
 }
 
 export { getLivros }
-
-
